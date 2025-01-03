@@ -13,7 +13,7 @@
     "description": "First web development project to showcase my skills",
     "skills": ["React", "Node", "Vite", "CSS/HTML", "Figma"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/mwnseo/portfolio-website-1"
   },
   {
     "title": "PintOS Operating System",
@@ -21,6 +21,6 @@
     "description": "Coursework semester long project",
     "skills": ["C", "Docker", "Git", "Team Collaboration"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/hkaiserteaching/csc4103-fall2024-project0-mwnseo"
   }
 ]
