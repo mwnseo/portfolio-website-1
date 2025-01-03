@@ -19,7 +19,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Frontend Developer</h3>
               <p>
-                I have experience in forntend app development as showcased in my projects.
+                I have experience in frontend app development as showcased in my projects.
               </p>
             </div>
           </li>

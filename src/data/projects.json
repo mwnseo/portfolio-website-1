@@ -1,16 +1,17 @@
 [
   {
     "title": "Universal Fitness",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "imageSrc": "projects/universal.png",
+    "description": "This is an Android app for your fitness needs. Features include workout generator/logger, calorie tracker, news, and social media.",
+    "descriptionClass": "smallerDescription",
     "skills": ["Kotlin", "Ktor", "Android Studio", "Docker"],
     "demo": "https://www.example.com",
     "source": "https://github.com/mwnseo/Universal-Fitness"
   },
   {
     "title": "Portfolio Website",
-    "imageSrc": "projects/project.png",
-    "description": "First web development project to showcase my skills",
+    "imageSrc": "projects/websiteproj.png",
+    "description": "First web development project created in React to showcase my skills",
     "skills": ["React", "Node", "Vite", "CSS/HTML", "Figma"],
     "demo": "https://www.example.com",
     "source": "https://github.com/mwnseo/portfolio-website-1"
@@ -18,7 +19,8 @@
   {
     "title": "PintOS Operating System",
     "imageSrc": "projects/project.png",
-    "description": "Coursework semester long project",
+    "description": "Coursework semester long project involving a operating system framework for the 80x86 architecture",
+    "descriptionClass": "smallerDescription",
     "skills": ["C", "Docker", "Git", "Team Collaboration"],
     "demo": "https://www.example.com",
     "source": "https://github.com/hkaiserteaching/csc4103-fall2024-project0-mwnseo"

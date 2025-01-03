@@ -16,15 +16,37 @@
     "imageSrc": "skills/node.png"
   },
   {
-    "title": "GraphQL",
-    "imageSrc": "skills/graphql.png"
+    "title": "Docker",
+    "imageSrc": "skills/docker.png"
   },
   {
-    "title": "MongoDB",
-    "imageSrc": "skills/mongodb.png"
+    "title": "Python",
+    "imageSrc": "skills/python.png"
   },
   {
     "title": "Figma",
     "imageSrc": "skills/figma.png"
+  },
+  {
+    "title": "Git",
+    "imageSrc": "skills/git.png"
+  },
+  {
+    "title": "C",
+    "imageSrc": "skills/Cprogram.png"
+  },
+  {
+    "title": "Lua",
+    "imageSrc": "skills/lua.png"
+  },
+  {
+    "title": "Gradle",
+    "imageSrc": "skills/gradle.png"
   }
+  ,
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/javascript2.png"
+  }
+
 ]

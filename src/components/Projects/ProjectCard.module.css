@@ -7,10 +7,16 @@
   background: linear-gradient(180deg, #c4821e 0%, #793905 100%);
   box-shadow: 0 16px 14px 0 #3a280e;
   padding: 18px 24px;
-  max-width: 345px;
+  width: 345px;
+  height: 550px;
+  min-height: 550px;
+  max-height: 550px;
 }
 
 .image {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
   margin-bottom: 26px;
 }
 
@@ -23,11 +29,12 @@
   margin-top: 6px;
   font-size: 25px;
   font-weight: 400;
+  flex-grow: 1;
 }
 
 .skills {
+  margin-top: auto;
   width: 100%;
-  margin-top: 14px;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
@@ -58,4 +65,8 @@
   border-radius: 100px;
   background: rgb(189, 92, 12);
   padding: 1px 22px;
+}
+
+.smallerDescription {
+  font-size: 19.5px !important;
 }
