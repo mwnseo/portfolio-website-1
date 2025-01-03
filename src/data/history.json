@@ -1,0 +1,17 @@
+[
+  {
+    "role": "Roblox Game Developer",
+    "organisation": "Freelance",
+    "startDate": "Sept, 2024",
+    "endDate": "Nov, 2024",
+    "experiences": ["Designed and implemented the core game logic for a multiplayer growth-based game inspired by Agar.io", "Built and optimized data persistence systems, enabling secure and efficient saving of player progress and inventory data."],
+    "imageSrc": "history/roblox11.png"
+  },
+  {
+    "role": "HPE",
+    "organisation": "Certification Program",
+    "startDate": "Dec, 2024",
+    "experiences": ["Designed a RESTful API using Java Spring Boot to manage employee records, supporting HTTP requests and JSON data uploads.", "Implemented CRUD operations and developed then tested API functionality with Mockito"],
+    "imageSrc": "history/hpe.png"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Universal Fitness",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["Kotlin", "Ktor", "Android Studio", "Docker"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/mwnseo/Universal-Fitness"
+  },
+  {
+    "title": "Portfolio Website",
+    "imageSrc": "projects/project.png",
+    "description": "First web development project to showcase my skills",
+    "skills": ["React", "Node", "Vite", "CSS/HTML", "Figma"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "PintOS Operating System",
+    "imageSrc": "projects/project.png",
+    "description": "Coursework semester long project",
+    "skills": ["C", "Docker", "Git", "Team Collaboration"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
