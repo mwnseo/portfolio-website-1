@@ -32,6 +32,6 @@
     "descriptionClass": "smallerDescription",
     "skills": ["React", "NodeJS", "SocketIO", "MongoDB"],
     "demo": "https://www.example.com",
-    "source": "https://github.com/mwnseo/video-chat-site"
+    "source": "https://github.com/mwnseo/video-chat-site" 
   }
 ]
