@@ -1,5 +1,8 @@
 # React + Vite
 
+Link to the website: https://minseo-jan5-portfolio.pages.dev/
+(GitHub Pages doesn't work for some reason. Created pages through CloudFlare using dist build)
+
 This provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
