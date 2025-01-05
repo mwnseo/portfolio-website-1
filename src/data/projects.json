@@ -24,5 +24,14 @@
     "skills": ["C", "Docker", "Git", "Team Collaboration"],
     "demo": "https://www.example.com",
     "source": "https://github.com/hkaiserteaching/csc4103-fall2024-project0-mwnseo"
+  },
+  {
+    "title": "Video Chat Site",
+    "imageSrc": "projects/newproject.png",
+    "description": "A full-stack real-time chat application with Online user tracking, File sharing, unique message history, and more.",
+    "descriptionClass": "smallerDescription",
+    "skills": ["React", "NodeJS", "SocketIO", "MongoDB"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/mwnseo/video-chat-site"
   }
 ]
